@@ -3,4 +3,4 @@ This program scrapes and parses player transactions from a Yahoo Fantasy Footbal
 
 Requests are handled through Yahoo's API for Fantasy Football, using OAuth for authentication to make the requests. 
 
-The next goal is to write clean output to a excel sheet
+Extracted data is displayed using a Pandas DataFrame. 
